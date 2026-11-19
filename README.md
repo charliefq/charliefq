@@ -6,7 +6,7 @@ USC student building financial research tools and dependable data systems.
 
 **An evidence-first financial research workspace.** Company research, inspectable valuation assumptions and source-aware interfaces, built with Next.js and TypeScript.
 
-[Live application](https://www.lumendeskapp.com) · [Lumen source showcase — pending publication](https://github.com/charliefq/lumen)
+[Live application](https://www.lumendeskapp.com) · [Lumen source showcase — live](https://github.com/charliefq/lumen)
 
 What I work on:
 
